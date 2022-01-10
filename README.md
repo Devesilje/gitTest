@@ -1,2 +1,2 @@
 # gitTest
-repository for practice
+repository for the practice 
